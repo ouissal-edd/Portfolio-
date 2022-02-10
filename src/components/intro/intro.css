@@ -26,7 +26,8 @@
   }
   
   .bottom_separation{
-    border-bottom: solid 1px white;
+    border-bottom: solid 1px ;
+    
   }
   .reseauIntro{
     width: 146px;
