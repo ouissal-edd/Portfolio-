@@ -34,7 +34,7 @@ const Contact = () => {
             <div className="contactLeft"></div>
             <div className="c">
                 <div className="left">
-                    <h1 className="title">Contact Me to work whit u :)</h1>
+                    <h1 className="title">Contact Me to work with  u :)</h1>
                     <div >
                         <div className="InfoIthem">
                             <img src={Phone} alt="" className="icon" />
